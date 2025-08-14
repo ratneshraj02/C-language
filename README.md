@@ -72,18 +72,18 @@ There are 32 keywords in the C language.
 
 - **register** keywords tells the compiler to store the variable in CPU register.
 
-- **return** 
-- **short**
-- **signed**
-- **sizeof**
-- **static**
-- **struct**
-- **switch**
-- **typedef**
-- **union**
-- **unsigned**
-- **void**
-- **volatile**
+- **return** keyword is used to return a value from a function.
+- **short** keyword is use for the reduce 16 bits size of integer data type.
+- **signed** keyword is used to define a signed variable which can store both positive & negative value.
+- **sizeof** keyword is use for the returns the amount of memory in bytes that a variable or data type occupies.
+- **static** keyword is used to define a variable keeps it's value after the function end.
+- **struct** Structure is a user defined data type which define by the "struct" keyword. It is used to group different data types together.
+- **switch** keyword is use for the selects of one of many code blocks to be executed.
+- **typedef** keyword is used to create an alias for a data type.   
+- **union** Union is a user defined data type which define by the "union" keyword. It is used to group different data types together but only one member can be used at a time.
+- **unsigned** keyword is used to define an unsigned variable which can store only positive value.
+- **void**  keyword is used to define a function that does not return any value. it may be use at the place of int, char, float, double etc.
+- **volatile**  keyword is used to tell the compiler that the value of a variable may change at any time, without any action being taken by the code the compiler finds nearby.
 
 ### **`The First C Program`**
 
