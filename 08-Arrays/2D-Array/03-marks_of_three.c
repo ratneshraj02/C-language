@@ -15,6 +15,6 @@ void main(){
         printf("%d \n",total[i]);
         }
         printf("\n");
-    }
+}
     
     
