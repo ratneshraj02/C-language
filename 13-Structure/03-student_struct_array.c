@@ -1,3 +1,7 @@
+/*
+    WAP for developed a marksheet for 25 students BCA 2nd year by using the structure.
+*/
+
 #include <stdio.h>
 
 struct Student{
